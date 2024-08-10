@@ -1,0 +1,58 @@
+﻿@model User
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Add User";
+}
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<h2>Add a New User <a asp-action="UserIndex" class="btn btn-sm btn-secondary"><i class=" fa fa-arrow-left"></i>  Back</a></h2>
+<br />
+<br />
+<container>
+
+</container>
+<form asp-action="AddUser" method="post">
+    <div class="">
+        <div class="">
+            <div class="active">
+                <i class="fa fa-user"></i>
+                <input class="textbox" name="UserName" type="text" placeholder="User Name" asp-for="UserName" />
+            </div>
+            @*<label for="UserName" class="active"><i class="fa fa-user"></i></label>
+                <input class="textbox" name="UserName" type="text" placeholder="Your Name" />*@
+        </div>
+        <br />
+
+        <div class="">
+            <div class="active">
+                <i class="fa fa-envelope-square"></i>
+                <input type="email" class="textbox" name="UserEmail" placeholder="Email" asp-for="UserEmail"/>
+            </div>
+            @*  pattern="/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+) *@
+        </div>
+    </div>
+    <br />
+    <div class="">
+        <div class="active">
+            <i class="fa fa-phone"></i>
+            <input class="textbox" name="UserContact" type="number" placeholder="Contact Number" min="80000000" max="99999999" maxlength="8"  asp-for="UserContact">
+        </div>
+
+    </div>
+    <br />
+    <div class="">
+        <div class=" active">
+            <i class="fa fa-lock"></i>
+            <input class="textbox" name="UserPassword" type="password" placeholder="Password" required minlength="6" maxlength="15" asp-for="UserPassword"  />
+        </div>
+
+
+    </div>
+    <br />
+    <br />
+    <div class="">
+        <button type="submit" class="btnAddUser"> <i class="fa fa-plus"></i> Add New User</button>
+    </div>
+</form>
+

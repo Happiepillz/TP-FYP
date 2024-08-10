@@ -1,0 +1,58 @@
+﻿@*@model IEnumerable<ActivityCategory>*@
+@model Consumer.ModelObjects.PaginatedList<Consumer.Models.ActivityCategory>
+@{ Layout = "_Layout"; ViewBag.Title = "All Activity Types";}
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>All Activity Logs</h2>
+<a asp-action="addCat" class="btn btn-sm btn-primary">Add Category</a>
+@*<a asp-action="GetActivityLog" class="btn btn-sm btn-secondary">Get Activity Log</a>
+    <a asp-action="AddType" class="btn btn-sm btn-primary">Add Activity Type</a>*@
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead>
+        <tr class="tableACTr">
+            <th class="tableACTh">Activity Category ID</th>
+            <th class="tableACTh">Category Name</th>
+            <th class="tableACTh">Category Description</th>
+            <th class="tableACTh">Update</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr class="tableACTr">
+                <td class="tablACTd">@r.ActivityCategoryID</td>
+                <td class="tablACTd">@r.ActivityCategoryName</td>
+                <td class="tablACTd">@r.ActivityCategoryDescription</td>
+
+                <td class="tablACTd">
+                    <a asp-action="updateCat" asp-route-id="@r.ActivityCategoryID" class="btnUpdateCat" value="@r.ActivityCategoryID">Update</a>
+
+                </td>
+
+                @*<td class="tablACTd">
+                        <a asp-action="DeleteCat" asp-route-id="@r.ActivityCategoryID" class="btnUpdateCat" onclick="return('Are you sure you want to delete this record?')"><i>Delete</i></a>
+
+
+                    </td>*@
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a style="color:black" asp-action="ActivityLog"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a style="color:black" asp-action="ActivityLog"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>

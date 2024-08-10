@@ -1,0 +1,30 @@
+﻿@model TrainingInstance
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Get TrainingInstance by Id";}
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Get TrainingInstance by ID <a asp-action="Index" class="btn btn-sm btn-primary">Back</a></h2>
+<form method="post">
+    <div class="form-group">
+        <label for="id">ID:</label>
+        <input class="form-control" name="id" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Get TrainingInstance</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+    <h2>TrainingInstance</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>ID</th><th>Time</th><th>Scenario ID</th><th>User ID</th></tr></thead>
+        <tbody>
+            <tr>
+                <td>@Model.TrainingInstanceID</td>
+                <td>@Model.TrainingInstanceDateTime</td>
+                <td>@Model.TrainingScenarioID</td>
+                <td>@Model.UserID</td>
+            </tr>
+        </tbody>
+    </table>
+}

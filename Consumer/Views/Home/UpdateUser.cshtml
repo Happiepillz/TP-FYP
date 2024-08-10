@@ -1,0 +1,57 @@
+﻿@model Consumer.Models.User
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; ViewBag.Title = "Update User";}
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+@*<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-/4.7.0/css/font-awesome.min.css">*@
+<head><link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"></head>
+
+
+<h2 class="header"> Update a User  <a asp-action="UserIndex" class="btn btn-sm btn-secondary"><i class=" fa fa-arrow-left"></i>  Back</a></h2>
+<br />
+<br />
+<form asp-action="UpdateUser" method="post">
+    <div class="col">
+        @*<label asp-for="UserId"></label>*@
+        @*<input class="textbox" asp-for="UserName" />*@
+        @Html.HiddenFor(m => m.UserId)
+    </div>
+    @*<div class="col">
+            <label asp-for="UserName"></label>
+            <input class="textbox" asp-for="UserName" />
+
+        </div>*@
+    <div class="active">
+        <i class="fa fa-user"></i>
+        <input class="textbox" name="UserName" type="text" placeholder="User Name" asp-for="UserName" />
+    </div>
+    <br />
+    @*<div class="col">
+            <label asp-for="UserEmail"></label>
+            <input class="textbox" asp-for="UserEmail" />
+        </div>*@
+    <div class="active">
+        <i class="fa fa-envelope-square"></i>
+        <input type="email" class="textbox" name="UserEmail" placeholder="Email" asp-for="UserEmail" />
+    </div>
+    <br />
+    @*<div class="col">
+            <label asp-for="UserContact"></label>
+            <input class="textbox" asp-for="UserContact" type="number" />
+        </div>*@
+    <div class="active">
+        <i class="fa fa-phone"></i>
+        <input class="textbox" name="UserContact" type="number" placeholder="Contact Number" asp-for="UserContact" min="80000000" max="99999999" />
+    </div>
+    <br />
+    @*<div class="col">
+            <label asp-for="UserPassword"></label>
+            <input class="textbox" asp-for="UserPassword" />
+        </div>*@
+    <div class=" active">
+        <i class="fa fa-lock"></i>
+        <input class="textbox" name="UserPassword" type="text" placeholder="Password" id="password" asp-for="UserPassword" minlength="6" required title=" 6 characters minimum" />
+    </div>
+    <br />
+    <div class="text-center panel-body">
+        <button type="submit" class="btnUpdateUser">  <i class="fa fa-upload"></i> Update</button>
+    </div>
+</form>

@@ -1,0 +1,31 @@
+﻿@model User
+@{Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Get User";}
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Get User <a asp-action="DisplayAllUser" class="btn btn-sm btn-primary">Back</a></h2>
+<form method="post">
+    <div class="form-group">
+        <label for="UserId">UserId:</label>
+        <input class="form-control" name="UserId" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Get User</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+    <h2>User</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>UserId</th><th>UserName</th><th>UserEmail</th><th>UserContact</th><th>UserPassword</th></tr></thead>
+        <tbody>
+            <tr>
+                <td>@Model.UserId</td>
+                <td>@Model.UserName</td>
+                <td>@Model.UserEmail</td>
+                <td>@Model.UserContact</td>
+                <td>@Model.UserPassword</td>
+            </tr>
+        </tbody>
+    </table>
+}

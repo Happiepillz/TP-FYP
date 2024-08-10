@@ -1,0 +1,38 @@
+﻿@model TrainingSceneStage
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+ ViewBag.Title = "Add a TrainingSceneStage";}
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Add a TrainingSceneStage <a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+<form asp-action="AddTrainingSceneStage" method="post">
+    <div class="form-group">
+        <label for="TSStageName">TSStageName:</label>
+        <input class="form-control" name="TSStageName" />
+    </div>
+    <div class="form-group">
+        <label for="TSStageDescription">TSStageDescription:</label>
+        <input class="form-control" name="TSStageDescription" />
+    </div>
+    <div class="form-group">
+        <label for="TrainingSceneID">TrainingSceneID:</label>
+        <input class="form-control" name="TrainingSceneID" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Add</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+    <h2>TrainingSceneStage</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>ID</th><th>Name</th><th>Description</th><th>Scene ID</th></tr></thead>
+        <tbody>
+            <tr>
+                <td>@Model.TSStageID</td>
+                <td>@Model.TSStageName</td>
+                <td>@Model.TSStageDescription</td>
+                <td>@Model.TrainingSceneID</td>
+            </tr>
+        </tbody>
+    </table>
+}

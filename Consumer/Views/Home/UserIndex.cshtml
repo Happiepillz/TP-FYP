@@ -1,0 +1,104 @@
+﻿@*@model Consumer.ModelObjects.PaginatedList<Consumer.Models.User>*@
+@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<Consumer.Models.User>
+@{
+    ViewData["Title"] = "UserPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*@{
+        var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+        var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+    }*@
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+
+<header class="header"> List Of User</header>
+
+<br />
+<br />
+<br />
+<p>
+    <a asp-action="AddUser" class="btn btn-sm btn-secondary"><i class="fa fa-plus"></i>   Create New User</a>
+</p>
+<br />
+<br />
+<table class="tableUser">
+    <thead>
+        <tr class="tableUserTr">
+            <th class="tableUserTh">
+                <a asp-action="UserIndex" asp-route-sortOrder="@ViewData["UserNameSortParm"]">Username </a>
+            </th>
+            <th class="tableUserTh">
+                <a asp-action="UserIndex" asp-route-sortOrder="@ViewData["UserEmailSortParm"]">Email</a>
+            </th>
+            <th class="tableUserTh">
+                <a asp-action="UserIndex" asp-route-sortOrder="@ViewData["UserContactSortParm"]">Contact</a>
+            </th>
+            <th class="tableUserTh">
+                <a asp-action="UserIndex" asp-route-sortOrder="@ViewData["UserPasswordSortParm"]">Password</a>
+            </th>
+            <th class="tableUserTh">
+                Update
+            </th>
+            <th class="tableUserTh">
+                Delete
+            </th>
+
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="tableUserTr">
+                <td class="tableUserTd">
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td class="tableUserTd">
+                    @Html.DisplayFor(modelItem => item.UserEmail)
+                </td>
+                <td class="tableUserTd">
+                    @Html.DisplayFor(modelItem => item.UserContact)
+                </td>
+                <td class="tableUserTd">
+                    @Html.DisplayFor(modelItem => item.UserPassword)
+                </td>
+                <td class="tableUserTd">
+                    <a asp-action="updateuser" asp-route-id="@item.UserId" value="@item.UserId" class="btnEdit"><i class="fa fa-sync"></i> Update</a>
+
+
+                </td>
+                <td class="tableUserTd">
+                    @*<form> asp-action="Delete" asp-route-id="@item.UserId" Value = "@item.UserId" class="btn btn-sm btn-primary">Delete </form>*@
+
+                    @*<a asp-action="DeleteUser" asp-route-id="@item.UserId"  class="btn btn-sm btn-primary">Delete</a>*@
+
+                    <form asp-action="DeleteUser" method="post">
+                        @*<input type="submit" value="@item.UserId" name="UserId"/>*@
+                        <button type="submit" value="@item.UserId" name="UserId" class="btnEdit"><i class="fa fa-times"></i> Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*<a style="color:black" asp-action="UserIndex"
+       asp-route-sortOrder="@ViewData["CurrentSort"]"
+       asp-route-pageNumber="@(Model.PageIndex - 1)"
+       asp-route-currentFilter="@ViewData["CurrentFilter"]"
+       class="btn btn-default @prevDisabled">
+        Previous
+    </a>
+    <a style="color:black" asp-action="UserIndex"
+       asp-route-sortOrder="@ViewData["CurrentSort"]"
+       asp-route-pageNumber="@(Model.PageIndex + 1)"
+       asp-route-currentFilter="@ViewData["CurrentFilter"]"
+       class="btn btn-default @nextDisabled">
+        Next
+    </a>*@
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

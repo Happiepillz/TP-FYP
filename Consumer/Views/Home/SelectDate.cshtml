@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Consumer.Models.TrgInstUserDto>
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; ViewBag.Title = "Select Date";}
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Select A date</h2>
+<br />
+<br />
+
+
+<table class="tableUser">
+    <thead>
+        <tr class="tableUserTr">
+            <th class="tableUserTh">
+                @Html.DisplayNameFor(model => model.TrainingInstanceDateTime)
+            </th>
+            <th></th>
+
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="tableUserTr">
+                <td class="tableUserTd">
+                    @Html.DisplayFor(modelItem => item.TrainingInstanceDateTime)
+                </td>
+                <td class="tableUserTd">
+                    <form asp-action="DisplayLog" method="post">
+                        @*<input type="submit" value="@item.UserId" name="UserId"/>*@
+                        <button type="submit" value="@item.TrainingInstanceID" name="TrainingInstanceID" class="btnEdit">Next</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,161 @@
+﻿@model IEnumerable<Consumer.Models.User>
+@{ 
+    ViewData["Title"] = "Login";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Login</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <!--===============================================================================================-->
+</head>
+<body>
+
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100 p-t-50 p-b-90">
+                <form method="post" class="login100-form validate-form flex-sb flex-w" asp-action="Login">
+
+                    <div class="wrap-input100 validate-input m-b-16" data-validate="Username is required">
+                        <input class="input100" type="text" name="UserName" placeholder="UserName">
+                        <span class="focus-input100"></span>
+                    </div>
+
+
+                    <div class="wrap-input100 validate-input m-b-16" data-validate="Password is required">
+                        <input class="input100" type="password" name="UserPassword" placeholder="Password" id="password">
+                        @*<span class="focus-input100"></span>*@
+                        @*<span toggle="password" class="fa fa-fw fa-eye field-icon toggle-password" on-click="myFunction()"></span>*@
+                        <input type="checkbox" onclick="myFunction()">Show Password
+                    </div>
+
+
+                    <div class="container-login100-form-btn m-t-17">
+                        @*<a asp-action="DisplayAllUser" class="login100-form-btn">Login</a>*@
+                        <button type="submit" class="login100-form-btn" onclick="location.href='@Url.Action("About_partial", "HomeController")'">Login</button>
+
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="dropDownSelect1"></div>
+
+    <!--===============================================================================================-->
+    <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/animsition/js/animsition.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/bootstrap/js/popper.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/daterangepicker/moment.min.js"></script>
+    <script src="vendor/daterangepicker/daterangepicker.js"></script>
+    <!--===============================================================================================-->
+    <script src="vendor/countdowntime/countdowntime.js"></script>
+    <!--===============================================================================================-->
+    <script src="js/main.js"></script>
+    <script>
+        function myFunction()
+        {
+            var x = document.getElementById("password");
+            if (x.type === "password") {
+                x.type = "text";
+            } else {
+             x.type = "password";
+            }
+            }
+    </script>
+</body>
+</html>
+
+
+
+
+@* =========================== Below Codes are from Back Up ==========================================================================*@
+
+
+@*asp-action="Login"*@
+@*<h2>All Users</h2>
+    <a asp-action="AddUser" class="btn btn-sm btn-primary">Add User</a>
+    <a asp-action="GetUsers" class="btn btn-sm btn-secondary">Get User</a>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>ID</th><th>Name</th><th>Email</th><th>Conatact</th><th>Password</th><th>Update</th><th>Delete</th></tr></thead>
+        <tbody>
+            @if (Model != null)
+            {
+            @foreach (var r in Model)
+            {
+                <tr>
+                    <td>@r.UserId</td>
+                    <td>@r.UserName</td>
+                    <td>@r.UserEmail</td>
+                    <td>@r.UserContact</td>
+                    <td>@r.UserPassword</td>
+                    <td>
+                        <a asp-action="UpdateUser" asp-route-id="@r.UserId" class="btn btn-sm btn-primary">Update</a>
+
+                    </td>
+                    <td>
+                        <a asp-action="DeleteUser" asp-route-id="@r.UserId" method="post" class="btn btn-sm btn-primary">
+                            Delete
+
+
+                        </a>
+                    </td>
+                </tr>
+            }
+            }
+        </tbody>
+    </table>*@
+
+
+@*================================================ IDK Juz trying out things =========================================================  *@
+
+@*@{ if (IsPost)
+     {
+         string UserName = Request.Index["UserName"];
+     }
+    }*@
+
+@*<h2>all users</h2>
+    <a asp-action="adduser" class="btn btn-sm btn-primary">add user</a>
+    <a asp-action="getusers" class="btn btn-sm btn-secondary">get user</a>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>id</th><th>name</th><th>email</th><th>contact</th><th>password</th><th>update</th><th>delete</th></tr></thead>
+        <tbody>
+            @foreach (var r in Model)
+            {
+                <tr>
+                    <td>@r.UserId</td>
+                    <td>@r.UserName</td>
+                    <td>@r.UserEmail</td>
+                    <td>@r.UserContact</td>
+                    <td>@r.UserPassword</td>
+                    <td>
+                        <a asp-action="updateuser" asp-route-id="@r.UserId" class="btn btn-sm btn-primary">update</a>
+
+                    </td>
+                    <td>
+                        <a asp-action="deleteuser" asp-route-id="@r.UserId" method="post" class="btn btn-sm btn-primary">
+                            delete
+
+
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>*@
+
+

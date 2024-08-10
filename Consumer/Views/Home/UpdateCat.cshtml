@@ -1,0 +1,43 @@
+﻿@model Consumer.Models.ActivityCategory
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; ViewBag.Title = "Update an Activity Category";}
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Update a Category <a asp-action="ActCatPost" class="btn btn-sm btn-secondary">Back</a></h2>
+<form asp-action="updateCat2" method="post">
+    @*<div class="form-group">
+            <label asp-for="ActivityCategoryID"></label>
+            <input class="form-control" asp-for="ActivityCategoryID" readonly />
+        </div>*@
+    @Html.HiddenFor(m => m.ActivityCategoryID)
+    @*<div class="form-group">
+            <label asp-for="ActivityCategoryName"></label>
+            <input class="form-control" asp-for="ActivityCategoryName" />
+        </div>*@
+    @*<div class="form-group">
+            <label asp-for="ActivityCategoryDescription"></label>
+            <input class="form-control" asp-for="ActivityCategoryDescription" />
+        </div>*@
+    <br />
+    <br />
+    <br />
+    <br />
+    <div class="active">
+        <i class="fa fa-clipboard-list"></i>
+        <input class="textbox" name="ActivityCategoryName" type="text" asp-for="ActivityCategoryName" />
+    </div>
+    <br />
+    <br />
+    <br />
+    <div class="active">
+        <i class="fa fa-user"></i>
+        <input class="textboxDescription" name="ActivityCategoryDescription" type="text" asp-for="ActivityCategoryDescription" />
+    </div>
+
+    @*<div class="text-center panel-body">
+            <button type="submit" class="btn btn-sm btn-primary">Update</button>
+        </div>*@
+    <br />
+    <div class="text-center panel-body">
+        <button type="submit" class="btnUpdateUser">  <i class="fa fa-upload"></i> Update</button>
+    </div>
+</form>
+

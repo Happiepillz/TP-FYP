@@ -1,0 +1,1259 @@
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.Manifest.cache
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.xml
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cache
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.input.cache
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.output.cache
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorCoreGenerate.cache
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cache
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddUser.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\GetUsers.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateUser.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UserPage.cshtml.g.cs
+C:\Users\khew3\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActivityLog.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.xml
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.input.cache
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.output.cache
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActivityLog.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddUser.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\GetUsers.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateUser.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UserPage.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\AddPatientMedicalData.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\GetPatientMedicalData.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\UpdatePatientMedicalData.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\AddPatient.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\GetPatient.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\SearchPatient.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\AddTrainingInstance.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\GetTrainingInstance.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\UpdateTrainingInstance.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\AddTrainingScenario.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\GetTrainingScenario.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\UpdateTrainingScenario.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\AddTrainingSceneStage.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\GetTrainingSceneStage.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\UpdateTrainingSceneStage.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\AddTrainingScene.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\GetTrainingScene.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\UpdateTrainingScene.cshtml.g.cs
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\AddPatientMedicalData1.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.Manifest.cache
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.xml
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cache
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.input.cache
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.output.cache
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorCoreGenerate.cache
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddUser.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\GetUsers.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateUser.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UserPage.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\AddPatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\AddPatientMedicalData1.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\GetPatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\UpdatePatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\AddPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\GetPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\SearchPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\AddTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\GetTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\UpdateTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\AddTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\GetTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\UpdateTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\AddTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\GetTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\UpdateTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\AddTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\GetTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\UpdateTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cache
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cs
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\Desktop\integrations\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActivityLogNew.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.Manifest.cache
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.xml
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cache
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.input.cache
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.output.cache
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorCoreGenerate.cache
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddUser.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateUser.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\UpdatePatientMedicalData.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\AddPatient.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\GetPatient.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\SearchPatient.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\UpdateTrainingInstance.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\AddTrainingScenario.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\GetTrainingScenario.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\UpdateTrainingScenario.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\AddTrainingSceneStage.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\GetTrainingSceneStage.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\Index.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\UpdateTrainingSceneStage.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\AddTrainingScene.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\GetTrainingScene.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\UpdateTrainingScene.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cache
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCatIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddCategory.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\DrugIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\StatusIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\updateCat.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateLog.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About_partial.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCategory.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActivityLog.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Druggie.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\GetUser.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateDrug.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UserIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\PatientIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\AddPatientMedicalData.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\GetPatientMedicalData.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\MedicalDataIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\TrainingInstanceIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\AddTrainingInstance.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\GetTrainingInstance.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\TrainingScenarioIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\TrainingSceneIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\AddTrainingSceneStageP.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\GetTrainingSceneStageP.cshtml.g.cs
+C:\Users\Wings\Desktop\Integration\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\TrainingSceneStageIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.Manifest.cache
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.xml
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cache
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.input.cache
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.output.cache
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorCoreGenerate.cache
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About_partial.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCategory.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCatIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActivityLog.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddCategory.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Druggie.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\DrugIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\GetUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateCat.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateDrug.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateLog.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UserIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\AddPatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\GetPatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\MedicalDataIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\UpdatePatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\AddPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\GetPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\PatientIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\SearchPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\AddTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\GetTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\TrainingInstanceIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\UpdateTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\AddTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\GetTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\TrainingScenarioIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\UpdateTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\AddTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\GetTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\TrainingSceneStageIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\UpdateTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\AddTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\GetTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\TrainingSceneIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\UpdateTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cache
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\TypeIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\SearchUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\SelectDate.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\DisplayLog.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddActType.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.Manifest.cache
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.xml
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cache
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.input.cache
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.output.cache
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorCoreGenerate.cache
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About_partial.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCategory.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCatIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActivityLog.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddActType.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddCategory.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddUser.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\DisplayLog.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Druggie.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\DrugIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\GetUser.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\SearchUser.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\SelectDate.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\TypeIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateCat.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateDrug.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateLog.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateUser.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UserIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\AddPatientMedicalData.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\GetPatientMedicalData.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\MedicalDataIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\UpdatePatientMedicalData.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\AddPatient.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\GetPatient.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\PatientIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\SearchPatient.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\AddTrainingInstance.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\GetTrainingInstance.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\TrainingInstanceIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\UpdateTrainingInstance.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\AddTrainingScenario.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\GetTrainingScenario.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\TrainingScenarioIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\UpdateTrainingScenario.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\AddTrainingSceneStage.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\GetTrainingSceneStage.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\TrainingSceneStageIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\UpdateTrainingSceneStage.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\AddTrainingScene.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\GetTrainingScene.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\TrainingSceneIndex.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\UpdateTrainingScene.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cache
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cs
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\Wings\Desktop\MPProject(Do Sorting)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.Manifest.cache
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.xml
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cache
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.input.cache
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.output.cache
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorCoreGenerate.cache
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About_partial.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCategory.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCatIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActivityLog.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddActType.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddCategory.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\DisplayLog.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Druggie.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\DrugIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\GetUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\SearchUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\SelectDate.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\TypeIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateCat.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateDrug.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateLog.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UserIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\AddPatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\GetPatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\MedicalDataIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\UpdatePatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\AddPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\GetPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\PatientIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\SearchPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\AddTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\GetTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\TrainingInstanceIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\UpdateTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\AddTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\GetTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\TrainingScenarioIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\UpdateTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\AddTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\GetTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\TrainingSceneStageIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\UpdateTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\AddTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\GetTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\TrainingSceneIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\UpdateTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cache
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cs
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\Desktop\MPProject14FEB2020\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.Manifest.cache
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\staticwebassets\Consumer.StaticWebAssets.xml
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cache
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorAssemblyInfo.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.input.cache
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.TagHelpers.output.cache
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorCoreGenerate.cache
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\About_partial.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCategory.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActCatIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\ActivityLog.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddActType.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddCategory.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\AddUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\DisplayLog.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Druggie.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\DrugIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\GetUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\SearchUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\SelectDate.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\TypeIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateCat.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateDrug.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateLog.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UpdateUser.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Home\UserIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\AddPatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\GetPatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\MedicalDataIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\PatientMedicalData\UpdatePatientMedicalData.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\AddPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\GetPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\PatientIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\SearchPatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Patient\UpdatePatient.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\AddTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\GetTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\TrainingInstanceIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingInstance\UpdateTrainingInstance.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\AddTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\GetTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\TrainingScenarioIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScenario\UpdateTrainingScenario.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\AddTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\GetTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\TrainingSceneStageIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingSceneStage\UpdateTrainingSceneStage.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\AddTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\GetTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\TrainingSceneIndex.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\TrainingScene\UpdateTrainingScene.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cache
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.RazorTargetAssemblyInfo.cs
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.Views.pdb
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\PagedList.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\bin\Debug\netcoreapp3.0\PagedList.Mvc.dll
+C:\Users\khew3\Desktop\MPProject[FINAL]\MPProject14FEB2020(1)\MPProject\Consumer\obj\Debug\netcoreapp3.0\Consumer.MvcApplicationPartsAssemblyInfo.cache

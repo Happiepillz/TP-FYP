@@ -1,0 +1,107 @@
+﻿
+@model Consumer.ModelObjects.PaginatedList<Consumer.Models.Drug>
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "All Activity Logs";}
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>List Of Drugs</h2>
+
+<br />
+<br />
+<br />
+<p>
+    <a asp-action="AddDrug" class="btn btn-sm btn-secondary"><i class="fa fa-plus"></i>  Add New Drug</a>
+</p>
+<br />
+<br />
+<table class="tableUser">
+    <thead>
+        <tr class="tableALTr">
+            <th class="tableALTh">
+                <a asp-action="DrugIndex" asp-route-sortOrder="@ViewData["DrugNameSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().DrugName)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="DrugIndex" asp-route-sortOrder="@ViewData["DrugDosageSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().DrugDosage)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="DrugIndex" asp-route-sortOrder="@ViewData["DrugDescriptionSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().DrugDescription)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="DrugIndex" asp-route-sortOrder="@ViewData["DrugTypeSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().DrugType)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="DrugIndex" asp-route-sortOrder="@ViewData["DrugSideEffectsSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().DrugSideEffects)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="DrugIndex" asp-route-sortOrder="@ViewData["DrugPrecautionsSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().DrugPrecautions)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="DrugIndex" asp-route-sortOrder="@ViewData["DrugInteractionsSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().DrugInteractions)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="DrugIndex" asp-route-sortOrder="@ViewData["DrugRemarksSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().DrugRemarks)</a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="tableUserTr">
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.DrugName)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.DrugDosage)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.DrugDescription)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.DrugType)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.DrugSideEffects)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.DrugPrecautions)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.DrugInteractions)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.DrugRemarks)
+                </td>
+                <td class="tableUserTd">
+                    <a asp-action="updateDrug1" asp-route-id="@item.DrugId" class="btn btn-sm btn-primary" value="@item.DrugId">Update</a>
+
+                </td>
+
+                <td class="tableUserTd">
+                    <a asp-action="DeleteDrug" asp-route-id="@item.DrugId" class="btn btn-sm btn-primary">Delete</a>
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a style="color:black" asp-action="ActCatPost"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a style="color:black" asp-action="ActCatPost"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>

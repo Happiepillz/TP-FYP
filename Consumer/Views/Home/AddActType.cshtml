@@ -1,0 +1,50 @@
+﻿@model ActivityType
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var category = ViewData["Categories"] as CategoryDropDownList;
+}
+
+
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+
+<h2>Add a New Activity Type <a asp-action="TypeIndex" class="btn btn-sm btn-secondary"><i class=" fa fa-arrow-left"></i>    Back</a></h2>
+
+<br />
+<br />
+<form class="" method="post" asp-action="AddType">
+    <div class="">
+        @*<div class="">
+                <label for="ActivityTypeName">Name Of Activity:</label>
+                <input class="textbox" name="ActivityTypeName" type="text" />
+            </div>*@
+        <div class="active">
+            <i class="fa fa-user"></i>
+            <input class="textbox" name="ActivityTypeName" type="text" placeholder="Activity Type Name" asp-for="ActivityTypeName" />
+        </div>
+        <br />
+
+        @*<div class="">
+                <label for="ActivityTypeDescription">Description For Activity Type:</label>
+                <input type="text" class="textbox" name="ActivityTypeDescription" />
+            </div>*@
+        <div class="active">
+            <i class="fa fa-user"></i>
+            <input class="textbox" name="ActivityTypeDescription" type="text" placeholder="Description" asp-for="ActivityTypeDescription" />
+        </div>
+    </div>
+    <br />
+    <br />
+    <div>
+        @Html.DropDownList("ActCat", category.ActivityCategoryName, "---Select Category---", new { @class = "form-control", value = category.ActivityCategoryID })
+    </div>
+    @*<div class="text-center panel-body">
+            <button type="submit" class="btnAddUser">Add</button>
+        </div>*@
+
+    <br />
+    <br />
+    <div class="">
+        <button type="submit" class="btnAddUser"> <i class="fa fa-plus"></i> Add New Activity Type</button>
+    </div>
+
+</form>

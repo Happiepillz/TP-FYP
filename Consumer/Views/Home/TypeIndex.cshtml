@@ -1,0 +1,84 @@
+﻿
+@model Consumer.ModelObjects.PaginatedList<Consumer.Models.TypeCategoryDTO>
+@{
+    ViewData["Title"] = "Activity Type";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>All Activity Type</h2>
+
+<br />
+<br />
+<br />
+<p>
+    <a asp-action="ActTypeDisplay" class="btn btn-sm btn-secondary"><i class="fa fa-plus"></i>   Add Type</a>
+</p>
+<br />
+<br />
+
+<table class="tableActivityLog">
+    <thead>
+        <tr class="tableALTr">
+            <th class="tableALTh">
+                <a asp-action="ActTypeDisplay" asp-route-sortOrder="@ViewData["ActivityTypeNameParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().ActivityTypeName)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="ActTypeDisplay" asp-route-sortOrder="@ViewData["ActivityTypeDescriptionParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().ActivityTypeDescription)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="ActTypeDisplay" asp-route-sortOrder="@ViewData["ActivityCategoryNameParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().ActivityCategoryName)</a>
+            </th>
+
+            @*<th class="tableALTh">
+                Update
+            </th>
+            <th class="tableALTh">
+                Delete
+            </th>*@
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="tableALTr">
+
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.ActivityTypeName)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.ActivityTypeDescription)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.ActivityCategoryName)
+                </td>
+                @*<td class="tablALTd">
+                    <a asp-action="UpdateLog" asp-route-id="@item.ActivityTypeID" class="btnEdit" value="@item.ActivityTypeID"><i class="fa fa-sync"></i> Update</a>
+                </td>
+
+                <td class="tablALTd">
+                    <a asp-action="DeleteActivityLog" asp-route-id="@item.ActivityTypeID" class="btnEdit"><i class="fa fa-times"></i> Delete</a>
+                </td>*@
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a style="color:black" asp-action="ActTypeDisplay"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a style="color:black" asp-action="ActTypeDisplay"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>

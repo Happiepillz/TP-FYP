@@ -1,0 +1,64 @@
+﻿@model Drug
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; ViewBag.Title = "Update Drugs";}
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Add a Log <a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+<form asp-action="updateDrug" method="post">
+    <<div class="form-group">
+        <label asp-for="DrugId"></label>
+        <input class="form-control" asp-for="DrugId" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugName"></label>
+        <input class="form-control" asp-for="DrugName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugDosage"></label>
+        <input class="form-control" asp-for="DrugDosage" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugDescription"></label>
+        <input class="form-control" asp-for="DrugDescription" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugType"></label>
+        <input class="form-control" asp-for="DrugType" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugSideEffects"></label>
+        <input class="form-control" asp-for="DrugSideEffects" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugPrecautions"></label>
+        <input class="form-control" asp-for="DrugPrecautions" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugInteractions"></label>
+        <input class="form-control" asp-for="DrugInteractions" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugRemarks"></label>
+        <input class="form-control" asp-for="DrugRemarks" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Update Drug</button>
+    </div>
+</form>
+@if (Model != null)
+{
+    <h2>Reservation</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>ID</th><th>Name</th><th>Start Location</th><th>End Location</th></tr></thead>
+        <tbody>
+            <tr>
+                <td>@Model.DrugId</td>
+                <td>@Model.DrugName</td>
+                <td>@Model.DrugDosage</td>
+                <td>@Model.DrugDescription</td>
+                <td>@Model.DrugType</td>
+                <td>@Model.DrugSideEffects</td>
+                <td>@Model.DrugPrecautions</td>
+                <td>@Model.DrugRemarks</td>
+            </tr>
+        </tbody>
+    </table>
+}

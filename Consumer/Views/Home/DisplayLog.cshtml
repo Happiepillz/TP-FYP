@@ -1,0 +1,86 @@
+﻿@model IEnumerable<ActivityLogUserDTO>
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; ViewBag.Title = "Select Date";}
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+@*<form asp-action=""><h2 asp-for="UserName">'s Activity Log</h2></form>*@
+
+<h2>
+    @foreach (var item in Model)
+    {
+        @Html.DisplayFor(modelItem => item.UserName)
+    }'s Activity Log
+
+</h2>
+<br/>
+<br />
+<br />
+<table class="tableActivityLog">
+    <thead>
+        <tr class="tableALTr">
+            <th class="tableALTh">
+                @*@Html.DisplayNameFor(model => model.UserName)*@
+                Username
+            </th>
+            <th class="tableALTh">
+                @*@Html.DisplayNameFor(model => model.ActivityDateTime)*@
+                Activity Date  and Time
+            </th>
+            <th class="tableALTh">
+                @*@Html.DisplayNameFor(model => model.ActivityDataName)*@
+                Activity Data Name
+            </th>
+            <th class="tableALTh">
+                @*@Html.DisplayNameFor(model => model.ActivityDataValue)*@
+                Activity Data Value
+            </th>
+            <th class="tableALTh">
+               @* @Html.DisplayNameFor(model => model.ActivityStatus)*@
+                Activity Status 
+            </th>
+            <th class="tableALTh">
+                @*@Html.DisplayNameFor(model => model.DrugName)*@
+                Drug Name
+            </th>
+            <th class="tableALTh">
+              @*  @Html.DisplayNameFor(model => model.TSStageName)*@
+                Training Scene Stage 
+            </th>
+            <th class="tableALTh">
+               @* @Html.DisplayNameFor(model => model.ActivityTypeName)*@
+                Activity Type
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr class="tableALTr">
+            <td class="tablALTd">
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td class="tablALTd">
+                @Html.DisplayFor(modelItem => item.ActivityDateTime)
+            </td>
+            <td class="tablALTd">
+                @Html.DisplayFor(modelItem => item.ActivityDataName)
+            </td>
+            <td class="tablALTd">
+                @Html.DisplayFor(modelItem => item.ActivityDataValue)
+            </td>
+            <td class="tablALTd">
+                @Html.DisplayFor(modelItem => item.ActivityStatus)
+            </td>
+            <td class="tablALTd">
+                @Html.DisplayFor(modelItem => item.DrugName)
+            </td>
+            <td class="tablALTd">
+                @Html.DisplayFor(modelItem => item.TSStageName)
+            </td>
+            <td class="tablALTd">
+                @Html.DisplayFor(modelItem => item.ActivityTypeName)
+            </td>
+
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,54 @@
+﻿@model PatientMedicalData
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Update a PatientMedicalData";}
+
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+
+<h2>Update a PatientMedicalData <a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="PatientMedicalDataID"></label>
+        <input class="form-control" asp-for="PatientMedicalDataID" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="PatientMedicalDataName"></label>
+        <input class="form-control" asp-for="PatientMedicalDataName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="PatientMedicalDataValue"></label>
+        <input class="form-control" asp-for="PatientMedicalDataValue" />
+    </div>
+    <div class="form-group">
+        <label asp-for="PatientMedicalDataDatetime"></label>
+        <input class="form-control" asp-for="PatientMedicalDataDatetime" />
+    </div>
+    <div class="form-group">
+        <label asp-for="isVitalSign"></label>
+        <input class="form-control" asp-for="isVitalSign" />
+    </div>
+    <div class="form-group">
+        <label asp-for="PatientID"></label>
+        <input class="form-control" asp-for="PatientID" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Update</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+    <h2>PatientMedicalData</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>ID</th><th>Name</th><th>Value</th><th>Time</th><th>Vital Sign</th><th>Patient ID</th></tr></thead>
+        <tbody>
+            <tr>
+                <td>@Model.PatientMedicalDataID</td>
+                <td>@Model.PatientMedicalDataName</td>
+                <td>@Model.PatientMedicalDataValue</td>
+                <td>@Model.PatientMedicalDataDatetime</td>
+                <td>@Model.isVitalSign</td>
+                <td>@Model.PatientID</td>
+            </tr>
+        </tbody>
+    </table>
+}

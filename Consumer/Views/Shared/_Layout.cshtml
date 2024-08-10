@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+    <!-- Load an icon library -->
+    @*<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">*@
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    <title>Viso-CGH</title>
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h3>Visio-CGH</h3>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li>
+                    <div class="icon-bar">
+                        <a class="active white" href="~/Home/About_partial"><i class="fa fa-home"></i>    Home</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="icon-bar">
+                        <a class="active white" href="~/Home/UserIndex"><i class="fa fa-user"></i>    User</a>
+                    </div>
+                </li>
+                <li class="active white">
+                    <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Activity</a>
+                    <ul class="collapse list-unstyled" id="homeSubmenu">
+                        <li>
+                            <a class="white" href="~/Home/SearchUser"><i class="fa fa-search"></i> Search User</a>
+                        </li>
+                        <li>
+                            <div class="icon-bar">
+                                <a class="active white" href="~/Home/ActivityLog"><i class="fa fa-chart-bar"></i>    ActivityLog</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icon-bar">
+                                <a class="active white" href="~/Home/ActCatPost"><i class="fa fa-user-md"></i>    Activity Category</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icon-bar">
+                                <a class="active white" href="~/Home/ActTypeDisplay"><i class="fa fa-folder-open"></i>    Activity Type</a>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                @*<li>
+            <a href="~/Home/ActivityLog">Activity Log</a>
+        </li>*@
+                @*<li>
+            <a href="~/Home/ActCatPost">Activity Category</a>
+        </li>*@
+                @*<li>
+            <a href="~/Home/ActTypeDisplay">Activity Type</a>
+        </li>*@
+                @*<li><div class="icon-bar">
+                <a class="active" href="~/Home/DrugIndex"><i class="far fa-pill"></i>    Drugs</a>
+            </div>
+        </li>*@
+                <li>
+                    <div class="icon-bar">
+                        <a class="active white" href="~/Patient/PatientIndex"><i class="fas fa-id-card"></i> Patient</a>
+                   
+                    </div>
+                </li>
+                <li>
+                    <div class="icon-bar">
+                        <a class="active white" href="~/Home/DrugIndex"><i class="fa fa-pills"></i> Drug</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="icon-bar">
+                        <a class="active white" href="~/PatientMedicalData/MedicalDataIndex"><i class="fa fa-database"></i> Medical Data</a>
+                    </div>
+                </li>
+                <li class="active white">
+                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Training</a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu">
+                        <li>
+                            <a class="active white" href="~/TrainingInstance/TrainingInstanceIndex"><i class="fa fa-calendar"></i> Training Instance</a>
+                        </li>
+                        <li>
+                            <a class="active white" href="~/TrainingScenario/TrainingScenarioIndex"><i class="fa fa-chalkboard-teacher"></i>  Training Scenario</a>
+                        </li>
+                        <li>
+                            <a class="active white" href="~/TrainingScene/TrainingSceneIndex"><i class="fa fa-hospital-alt"></i> Training Scene</a>
+                        </li>
+                        <li>
+                            <a class="active white" href="~/TrainingSceneStage/TrainingSceneStageIndex"><i class="fa fa-building"></i>Training Scene Stage</a>
+                        </li>
+                    </ul>
+                </li>
+                @*<li>
+            <a href="~/PatientMedicalData/MedicalDataIndex">Medical Data</a>
+        </li>
+        <li>
+            <a href="~/TrainingInstance/TrainingInstanceIndex">Training Instance</a>
+        </li>
+        <li>
+            <a href="~/TrainingScenario/TrainingScenarioIndex">Training Scenario</a>
+        </li>
+        <li>
+            <a href="~/TrainingScene/TrainingSceneIndex">Training Scene</a>
+        </li>
+        <li>
+            <a href="~/TrainingSceneStage/TrainingSceneStageIndex">Training Scene Stage</a>
+        </li>*@
+            </ul>
+
+    </nav>
+
+    <!-- Page Content  -->
+    <div id="content">
+
+        @*<nav class="navbar navbar-expand-lg navbar-light bg-light">
+           <div class="container-fluid">*@
+
+                @*<button type="button" id="sidebarCollapse" class="btn btn-info">*@
+                    @*<i class="fas fa-align-left"></i>*@
+                    @*<div class="menu-icon"></div><div class="menu-icon"></div><div class="menu-icon"></div>*@
+               @* </button>*@
+                @*<button class="" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">*@
+                    @*<i class="fas fa-align-justify"></i>*@
+               @* </button>*@
+
+                @*<div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="nav navbar-nav ml-auto">
+                    </ul>
+                </div>*@
+            @*</div>
+        </nav>*@ 
+        <div>
+            <p>@RenderBody()</p>
+        </div>
+
+    </div>
+    </div>
+
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+        });</script>
+
+
+
+</body>
+
+</html>

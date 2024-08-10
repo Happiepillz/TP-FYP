@@ -1,0 +1,33 @@
+﻿
+@model IEnumerable<PatientMedicalData>
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+ ViewBag.Title = "PatientMedicalData";}
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>PatientMedicalData <a asp-controller="Home" asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+<a asp-action="AddPatientMedicalData" class="btn btn-sm btn-primary">Add PatientMedicalData</a>
+<a asp-action="GetPatientMedicalData" class="btn btn-sm btn-secondary">Get PatientMedicalData</a>
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead><tr><th>ID</th><th>Name</th><th>Value</th><th>Time</th><th>Vital Sign</th><th>Patient Name</th><th>Update</th><th>Delete</th></tr></thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.PatientMedicalDataID</td>
+                <td>@r.PatientMedicalDataName</td>
+                <td>@r.PatientMedicalDataValue</td>
+                <td>@r.PatientMedicalDataDatetime</td>
+                <td>@r.isVitalSign</td>
+                <td>@r.PatientID</td>
+                <td>
+                    <a asp-action="UpdatePatientMedicalData" asp-route-id="@r.PatientMedicalDataID" class="btn btn-sm btn-primary">Update</a>
+                </td>
+                <td>
+                    <form asp-action="DeletePatientMedicalData" method="post">
+                        <input type="hidden" value="@r.PatientMedicalDataID" name="PatientMedicalDataId" />
+                        <button class="btn btn-sm bg-danger text-light">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

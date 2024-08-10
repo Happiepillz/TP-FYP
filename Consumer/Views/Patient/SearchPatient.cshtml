@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Patient>
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; ViewBag.Title = "Search Patient by Name";}
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Search Patient by Name <a asp-action="Index" class="btn btn-sm btn-primary">Back</a></h2>
+<form method="post">
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <input class="form-control" name="name" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Search</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+    <h2>Patient</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>ID</th><th>NRIC</th><th>Name</th><th>Gender</th><th>Status</th><th>Date of birth</th><th>Race</th><th>Height</th><th>Weight</th></tr></thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.PatientID</td>
+                    <td>@p.PatientNRIC</td>
+                    <td>@p.PatientName</td>
+                    <td>@p.Gender</td>
+                    <td>@p.Status</td>
+                    <td>@p.DateOfBirth</td>
+                    <td>@p.Race</td>
+                    <td>@p.Height</td>
+                    <td>@p.Weight</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

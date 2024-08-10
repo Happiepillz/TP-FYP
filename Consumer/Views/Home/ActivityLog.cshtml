@@ -1,0 +1,96 @@
+﻿@*@model IEnumerable<Consumer.Models.ActivityLogUserDTO>*@
+@model Consumer.ModelObjects.PaginatedList<Consumer.Models.ActivityLogUserDTO>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Activity Log ";
+}
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h1>Activity Log</h1>
+<br />
+<br />
+
+<table class="tableActivityLog">
+    <thead>
+        <tr class="tableALTr">
+            <th class="tableALTh">
+                <a asp-action="ActivityLog" asp-route-sortOrder="@ViewData["UserNameSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().UserName)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="ActivityLog" asp-route-sortOrder="@ViewData["ActivityDateSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().ActivityDateTime)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="ActivityLog" asp-route-sortOrder="@ViewData["ActivityDataNameSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().ActivityDataName)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="ActivityLog" asp-route-sortOrder="@ViewData["ActivityDataValueSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().ActivityDataValue)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="ActivityLog" asp-route-sortOrder="@ViewData["ActivityStatusSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().ActivityStatus)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="ActivityLog" asp-route-sortOrder="@ViewData["DrugNameSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().DrugName)</a>
+            </th>
+            <th class="tableALTh">
+                <a asp-action="ActivityLog" asp-route-sortOrder="@ViewData["TSStageNameSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().TSStageName)</a>
+</th>
+            <th class="tableALTh">
+                <a asp-action="ActivityLog" asp-route-sortOrder="@ViewData["ActivityTypeNameSortParm"]">@Html.DisplayNameFor(model => model.FirstOrDefault().ActivityTypeName)</a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="tableALTr">
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.ActivityDateTime)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.ActivityDataName)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.ActivityDataValue)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.ActivityStatus)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.DrugName)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.TSStageName)
+                </td>
+                <td class="tablALTd">
+                    @Html.DisplayFor(modelItem => item.ActivityTypeName)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<a style="color:black" asp-action="ActivityLog"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a style="color:black" asp-action="ActivityLog"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>

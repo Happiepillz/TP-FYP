@@ -1,0 +1,48 @@
+﻿@model Consumer.Models.Drug
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Add Drugs";
+    }
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Add a Drug <a asp-action="DrugIndex" class="btn btn-sm btn-secondary">Back</a></h2>
+<form asp-action="AddDrug" method="post">
+    <<div class="form-group">
+        <label asp-for="DrugId"></label>
+        <input class="form-control" asp-for="DrugId" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugName"></label>
+        <input class="form-control" asp-for="DrugName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugDosage"></label>
+        <input class="textboxDescription" asp-for="DrugDosage" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugDescription"></label>
+        <input class="textboxDescription" asp-for="DrugDescription" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugType"></label>
+        <input class="textboxDescription" asp-for="DrugType" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugSideEffects"></label>
+        <input class="textboxDescription" asp-for="DrugSideEffects" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugPrecautions"></label>
+        <input class="textboxDescription" asp-for="DrugPrecautions" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugInteractions"></label>
+        <input class="textboxDescription" asp-for="DrugInteractions" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DrugRemarks"></label>
+        <input class="textboxDescription" asp-for="DrugRemarks" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Add Drug</button>
+    </div>
+</form>

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<TrainingScenario>
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+ ViewBag.Title = "TrainingScenario";}
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>TrainingScenario <a asp-controller="Home" asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+<a asp-action="AddTrainingScenario" class="btn btn-sm btn-primary">Add TrainingScenario</a>
+<a asp-action="GetTrainingScenario" class="btn btn-sm btn-secondary">Get TrainingScenario</a>
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead><tr><th>ID</th><th>Name</th><th>Description</th><th>Update</th><th>Delete</th></tr></thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.TrainingScenarioID</td>
+                <td>@r.TrainingScenarioName</td>
+                <td>@r.TrainingScenarioDescription</td>
+                <td>
+                    <a asp-action="UpdateTrainingScenario" asp-route-id="@r.TrainingScenarioID" class="btn btn-sm btn-primary">Update</a>
+                </td>
+                <td>
+                    <form asp-action="DeleteTrainingScenario" method="post">
+                        <input type="hidden" value="@r.TrainingScenarioID" name="TrainingScenarioId" />
+                        <button class="btn btn-sm bg-danger text-light">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

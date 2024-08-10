@@ -1,0 +1,31 @@
+﻿@model PatientMedicalData
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; ViewBag.Title = "Get PatientMedicalData by Id";}
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Get PatientMedicalData by ID <a asp-action="Index" class="btn btn-sm btn-primary">Back</a></h2>
+<form method="post">
+    <div class="form-group">
+        <label for="id">ID:</label>
+        <input class="form-control" name="id" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Get PatientMedicalData</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+    <h2>PatientMedicalData</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>ID</th><th>Name</th><th>Value</th><th>Time</th><th>Vital Sign</th><th>Patient Name</th></tr></thead>
+        <tbody>
+            <tr>
+                <td>@Model.PatientMedicalDataID</td>
+                <td>@Model.PatientMedicalDataName</td>
+                <td>@Model.PatientMedicalDataValue</td>
+                <td>@Model.PatientMedicalDataDatetime</td>
+                <td>@Model.isVitalSign</td>
+                <td>@Model.PatientID</td>
+            </tr>
+        </tbody>
+    </table>
+}

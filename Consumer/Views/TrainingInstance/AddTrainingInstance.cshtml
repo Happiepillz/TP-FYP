@@ -1,0 +1,40 @@
+﻿@model TrainingInstance
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; 
+    ViewBag.Title = "Add a TrainingInstance";
+    }
+
+    <link rel="stylesheet" type="text/css" href="~/css/site.css">
+<h2>Add a TrainingInstance <a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+<form asp-action="AddTrainingInstance" method="post">
+    <div class="form-group">
+        <label for="TrainingInstanceDateTime">TrainingInstanceDateTime:</label>
+        <input class="form-control" name="TrainingInstanceDateTime" />
+    </div>
+    <div class="form-group">
+        <label for="TrainingScenarioID">TrainingScenarioID:</label>
+        <input class="form-control" name="TrainingScenarioID" />
+    </div>
+    <div class="form-group">
+        <label for="UserID">UserID:</label>
+        <input class="form-control" name="UserID" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Add</button>
+    </div>
+</form>
+
+@if (Model != null)
+{
+    <h2>TrainingInstance</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead><tr><th>ID</th><th>Time</th><th>Scenario ID</th><th>User ID</th></tr></thead>
+        <tbody>
+            <tr>
+                <td>@Model.TrainingInstanceID</td>
+                <td>@Model.TrainingInstanceDateTime</td>
+                <td>@Model.TrainingScenarioID</td>
+                <td>@Model.UserID</td>
+            </tr>
+        </tbody>
+    </table>
+}
